@@ -1,0 +1,17 @@
+@charset "UFT-8";
+
+h1{
+ font-weight:bold;
+ font-size:18px;
+ }
+
+.fontred{
+ color:red;
+ font-size:14px;
+ }
+.fontblue{
+ color:blue;
+ font-size:14px;
+ }
+ 
+
